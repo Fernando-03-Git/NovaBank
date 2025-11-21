@@ -1,0 +1,2 @@
+C:/Banco_App/build/flutter/android/app/.cxx/RelWithDebInfo/3s2f6h4l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Banco_App/build/flutter/android/app/.cxx/RelWithDebInfo/3s2f6h4l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

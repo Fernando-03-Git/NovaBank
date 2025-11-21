@@ -1,0 +1,17 @@
+[project]
+name = "NovaBank"
+version = "1.0.0"
+description = "Aplicación bancaria moderna"
+authors = [{name = "Tu Nombre", email = "tu@email.com"}]
+
+[tool.flet]
+[tool.flet.android]
+adaptive_icon_background = "#0a1929"
+adaptive_icon_foreground = "assets/icon.png"
+permissions = ["android.permission.INTERNET"]
+
+[tool.flet.ios]
+info_plist = "ios/Runner/Info.plist"
+
+[tool.flet.web]
+manifest = "web/manifest.json"
