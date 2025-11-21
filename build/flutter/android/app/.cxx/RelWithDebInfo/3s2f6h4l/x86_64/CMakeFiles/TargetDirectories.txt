@@ -1,2 +1,0 @@
-C:/Banco_App/build/flutter/android/app/.cxx/RelWithDebInfo/3s2f6h4l/x86_64/CMakeFiles/edit_cache.dir
-C:/Banco_App/build/flutter/android/app/.cxx/RelWithDebInfo/3s2f6h4l/x86_64/CMakeFiles/rebuild_cache.dir
