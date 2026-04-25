@@ -30,3 +30,14 @@ Thumbs.db
 # Archivos de log
 *.log
 
+# Dart/Flutter (generados por Flet)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Archivos de test
+test_login.py
+
+# Archivos temporales de Python
+*.pyw
